@@ -1,4 +1,4 @@
-import { formatCurrency, formatDate } from "@repo/utils";
+import { formatCurrency, formatDate } from "@repo/util";
 import type { Transaction } from "@repo/types";
 
 console.log("=========================================");

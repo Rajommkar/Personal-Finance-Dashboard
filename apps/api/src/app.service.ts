@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { formatCurrency } from '@repo/utils';
+import { formatCurrency } from '@repo/util';
 
 @Injectable()
 export class AppService {
