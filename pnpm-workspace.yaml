@@ -3,6 +3,7 @@ packages:
   - "packages/*"
   - "packages/config/*"
 allowBuilds:
+  '@nestjs/core': set this to true or false
   esbuild: true
   sharp: set this to true or false
   unrs-resolver: true
