@@ -4,6 +4,8 @@ packages:
   - "packages/config/*"
 allowBuilds:
   '@nestjs/core': set this to true or false
+  '@prisma/engines': true
   esbuild: true
+  prisma: true
   sharp: set this to true or false
   unrs-resolver: true
