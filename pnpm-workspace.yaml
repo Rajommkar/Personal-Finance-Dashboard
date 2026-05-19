@@ -3,11 +3,11 @@ packages:
   - "packages/*"
   - "packages/config/*"
 allowBuilds:
-  '@nestjs/core': set this to true or false
+  '@nestjs/core': true
   '@prisma/engines': true
-  '@scarf/scarf': set this to true or false
-  bcrypt: set this to true or false
+  '@scarf/scarf': true
+  bcrypt: true
   esbuild: true
   prisma: true
-  sharp: set this to true or false
+  sharp: true
   unrs-resolver: true
